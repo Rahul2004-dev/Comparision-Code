@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+.new-amsterdam-regular {
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+   /* <uniquifier>: Use a unique and descriptive class name
+   <weight>: Use a value from 300 to 900 */
+  
+  .rubik-400 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.new-font-size span{
+  font-size: 12px;
+  line-height: 11.72px;
+  font-weight: 400;
+  color: #000 70%;
+}
+
+.new-font-size p {
+  font-size: 20px;
+  line-height: 24.68px;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
+}
